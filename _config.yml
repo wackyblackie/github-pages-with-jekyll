@@ -10,5 +10,7 @@ theme: minima
 
 # social links
 github_username:  wackyblackie # DO NOT include the @ character, or else the build will fail!
+gitlab_username: wackyblackie
+twitter_username: AlanBurr12
 
 show_excerpts: true # set to false to remove excerpts on the homepage
